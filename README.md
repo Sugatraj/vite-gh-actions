@@ -1,5 +1,17 @@
 # Vite + React + GitHub Actions Demo
 
+[![Deploy to GitHub Pages](https://github.com/Sugatraj/vite-gh-actions/actions/workflows/deploy.yml/badge.svg)](https://github.com/Sugatraj/vite-gh-actions/actions/workflows/deploy.yml)
+[![GitHub license](https://img.shields.io/github/license/Sugatraj/vite-gh-actions)](https://github.com/Sugatraj/vite-gh-actions/blob/main/LICENSE)
+[![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
+[![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+
+A production-ready template for deploying Vite + React applications to GitHub Pages using GitHub Actions. This repository provides a complete CI/CD workflow with GitHub Actions YAML configuration for automated builds and deployments.
+
+Keywords: vite-template, github-actions-deployment, react-vite-app, github-pages-deployment, vite-github-actions, yaml-workflow
+
+[🌐 Live Demo](https://sugatraj.github.io/vite-gh-actions/) | [📖 Documentation](#-features) | [🚀 Quick Start](#%EF%B8%8F-local-development)
+
 This project demonstrates a modern React application setup using Vite as the build tool, with automated deployment to GitHub Pages using GitHub Actions. It showcases best practices for React development and CI/CD workflows.
 
 ## 🚀 Features
@@ -94,3 +106,19 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📄 License
 
 This project is open source and available under the MIT License.
+
+## 🎯 Why This Template?
+
+- ✅ **Zero Configuration Deployment**: Just push your code and it's live
+- ✅ **Production Optimized**: Built-in optimization for production builds
+- ✅ **CI/CD Best Practices**: Implements GitHub Actions workflow best practices
+- ✅ **Automated Workflow**: Complete YAML configuration for GitHub Actions
+- ✅ **SEO Friendly**: Optimized for search engine visibility
+- ✅ **Community Ready**: Well-documented for easy contributions
+
+## 📚 Related Resources
+
+- [Vite Documentation](https://vitejs.dev/)
+- [GitHub Actions Documentation](https://docs.github.com/en/actions)
+- [GitHub Pages Deployment Guide](https://docs.github.com/en/pages)
+- [React Documentation](https://react.dev/)
