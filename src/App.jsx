@@ -13,7 +13,7 @@ function App() {
             This is a simple Vite + React project just to learn <b>Vite</b>, <b>Github pages</b> deployment with <b>Github Actions</b>.
             <br />
             <span className="d-flex justify-content-end fw-bold">
-              Date: 06 March 2025
+              Date: 06 March 2025 02:42 AM
             </span>
           </div>
         </div>
